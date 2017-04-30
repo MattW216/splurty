@@ -97,11 +97,27 @@ h2 {
 }
 
 h2 span {
-  color: #dddddd;
+  color: #6B6F70;
   font-family: 'quicksanditalic';
   font-weight: bold;
 }
 
 ::selection {
   background-color: #f84342;
+}
+
+.container-1 {
+  background-color: #404040;
+}
+
+.quote-saying {
+  color: white;
+}
+
+.quote-author {
+  color: white;
+}
+
+.tagline {
+  color: white;
 }
